@@ -1,0 +1,5 @@
+{
+  "name": "EcoPulse: Data Stories",
+  "description": "An interactive data storytelling dashboard visualizing global energy transition trends. Features AI-powered insights to make the data 'speak', simulating a data journalist's analysis of renewable vs. fossil fuel trends.",
+  "requestFramePermissions": []
+}
